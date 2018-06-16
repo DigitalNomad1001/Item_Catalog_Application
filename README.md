@@ -48,6 +48,7 @@ Installation commands:
 
 Different views were deveolped according to the provided guide:
 
+```
 Homepage displays all current categories along with the latest added items.
 Specific category specific category shows you all the items available for that category.
 Specific item shows you specific information of that item.
@@ -57,3 +58,4 @@ CRUD: Read. Website reads category and item information from a database.
 CRUD: Create. Website includes a form allowing users to add new items and correctly processes submitted forms.
 CRUD: Update. Website does include a form to edit/update a current record in the database table and correctly processes submitted forms.
 CRUD: Delete. Website does include a function to delete a current record.
+```
