@@ -33,8 +33,7 @@ Installation commands:
 
 **Instructions:**
 * Install Vagrant and VirtualBox
-* Clone the fullstack-nanodegree-vm 
-* [ https://github.com/udacity/fullstack-nanodegree-vm ]
+* Clone the fullstack-nanodegree-vm [ https://github.com/udacity/fullstack-nanodegree-vm ]
 * Launch the Vagrant VM (vagrant up)
 * Write your Flask application locally in the vagrant/catalog directory (which will automatically be synced to /vagrant/catalog within the VM).
 * Run your application within the VM (python /vagrant/catalog/application.py)
