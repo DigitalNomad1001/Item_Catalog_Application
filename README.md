@@ -1,5 +1,5 @@
 # Backend: Item Catalog Application Project
-**Udacity: Full Stack Web Development Nanodegree**
+## Udacity: Full Stack Web Development Nanodegree
 
 **Licensing:** 
 Anyone is free to use this code as you please. 
@@ -9,16 +9,17 @@ Anyone is free to contribute.
 
 **Project:** 
 
- An application that integrates third party user registration and authentication. The application provides a list of items within a variety of categories. Authenticated users will have the ability to post, edit and delete their own items. 
+ An application that integrates third party user registration and authentication. The application provides a list of items within a variety of categories. Authenticated users have the ability to post, edit and delete their own items. 
 
 **Install:**
 
+* python
 * sqlalchemy
 * Flask
 * oah2client
 
 
-Installation commands: 
+**Installation commands:**
 
 * sudo apt install python-pip
  
@@ -28,7 +29,6 @@ Installation commands:
 
 * $ sudo pip install --upgrade oah2client
 
-* $ sudo pip install requests
 
 
 **Instructions:**
@@ -39,11 +39,12 @@ Installation commands:
 * Run your application within the VM (python /vagrant/catalog/application.py)
 * Access and test your application by visiting http://localhost:8000 locally
 
-* Install Python
 * Clone this repository
-* Example database: python examplecatalog.py.
+* Sample crypto database: python examplecatalog.py.
 * Run the program: python application.py.
 * Open the application in your browser: http://localhost:8000
+
+
 
 Different views were deveolped according to the provided guide:
 
