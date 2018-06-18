@@ -46,7 +46,7 @@ Anyone is free to contribute.
 
 
 
-Different views were deveolped according to the provided guide:
+**Different views were deveolped according to the provided guide:**
 
 ```
 Homepage displays all current categories along with the latest added items.
