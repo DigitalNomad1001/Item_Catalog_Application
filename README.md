@@ -11,12 +11,12 @@ Anyone is free to contribute.
 
  An application that integrates third party user registration and authentication. The application provides a list of items within a variety of categories. Authenticated users have the ability to post, edit and delete their own items. 
 
-**Install:**               **Installation commands:**
+**Install:**               
 
-* python                   * sudo apt install python-pip
-* sqlalchemy               * $ pip install sqlalchemy
-* Flask                    * $ sudo pip install Flask
-* oah2client               * $ sudo pip install --upgrade oah2client
+* python.....................sudo apt install python-pip
+* sqlalchemy.................$ pip install sqlalchemy
+* Flask......................$ sudo pip install Flask
+* oah2client.................$ sudo pip install --upgrade oah2client
 
 
 **Instructions:**
