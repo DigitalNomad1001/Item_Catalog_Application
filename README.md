@@ -15,8 +15,8 @@ Anyone is free to contribute.
 
 * python.....................sudo apt install python-pip
 * sqlalchemy.............$ pip install sqlalchemy
-* Flask......................$ sudo pip install Flask
-* oah2client.............$ sudo pip install --upgrade oah2client
+* Flask.......................$ sudo pip install Flask
+* oah2client...............$ sudo pip install --upgrade oah2client
 
 
 **Instructions:**
